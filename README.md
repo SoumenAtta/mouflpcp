@@ -10,7 +10,18 @@
   volume={23},
   pages={12347--12362},
   year={2019},
-  publisher={Springer}
+  publisher={Springer},
+  doi={10.1007/s00500-019-03774-1},
+  url={https://doi.org/10.1007/s00500-019-03774-1} 
+}
+
+@dataset{atta2018mouflpcpdata,
+  author       = {Atta, Soumen},
+  title        = {Dataset for the Multi-objective Uncapacitated Facility Location Problem with Customers' Preferences (MOUFLPCP)},
+  year         = {2018},
+  publisher    = {Zenodo},
+  doi          = {10.5281/zenodo.15243382},
+  url          = {https://doi.org/10.5281/zenodo.15243382}
 }
 ```
 
