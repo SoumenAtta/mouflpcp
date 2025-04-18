@@ -16,7 +16,7 @@
 }
 
 @dataset{atta2018mouflpcpdata,
-  author       = {Atta, Soumen},
+  author       = {Atta, Soumen and Sinha Mahapatra, Priya Ranjan and Mukhopadhyay, Anirban},
   title        = {Dataset for the Multi-objective Uncapacitated Facility Location Problem with Customers' Preferences (MOUFLPCP)},
   year         = {2018},
   publisher    = {Zenodo},
